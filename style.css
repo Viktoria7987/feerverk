@@ -1,0 +1,60 @@
+body{
+    font-family: sans-serif;
+    margin: 10px;
+
+}
+
+a {
+    color: white;
+    background-color:MediumOrchid;
+    text-decoration:wavy underline;
+
+}
+
+h1 {
+    background-color:rgb(176, 72, 202);
+    text-align: center;
+
+}
+
+h2 {
+    background-color:rgb(176, 72, 202);
+    text-align: center;
+     font-size: 35px;
+
+}
+
+
+p{
+     text-align: center;
+     background-color:Plum;
+     border-radius: 190px;
+     font-size: 20px;
+
+}
+
+footer {
+ background-color:Plum;
+
+}
+
+footer p {
+ background-color:white;
+
+}
+
+.i {
+    color: white;
+    background-color:MediumOrchid;
+
+}
+
+.rg {
+
+     text-align: center;
+     background-color:rgb(255, 255, 255);
+}
+
+
+
+
